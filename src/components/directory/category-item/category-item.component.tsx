@@ -1,4 +1,4 @@
-import { Category } from '../../types/category.type';
+import { Category } from '../../../types/category.type';
 import './category-item.styles.scss';
 
 const CategoryItem = ({ category }: { category: Category }) => {

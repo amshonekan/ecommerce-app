@@ -1,4 +1,4 @@
-import { Category } from '../../types/category.type';
+import { Category } from '../../../types/category.type';
 import './categories.styles.scss';
 
 const Categories: Category[] = [
